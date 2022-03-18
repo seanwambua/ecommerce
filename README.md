@@ -1,4 +1,4 @@
-# Ecommerce
+# Ecommerce Store
 - Features: Multi-vendor Store, Custom Admin panel, Payment Integration, Secure Checkout.
 - Platform: Responsive Web.
 - Stack: Bootstrap, Django, MySQL.
