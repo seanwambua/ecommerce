@@ -1,5 +1,6 @@
 # Ecommerce
 - Features: Multi-vendor Store, Custom Admin panel, Payment Integration, Secure Checkout.
-- Platform: Web
+- Platform: Responsive Web
 - Stack: Django, MySQL.
-- Platforms: Trello, GitLab, CircleCI
+- Project Mangement: Trello 
+- CI/CD: GitLab, CircleCI
